@@ -13,16 +13,12 @@ Pandas is the go-to library for data analysis in Python. It offers fast, flexibl
 
 ## What's Inside? 🗂️
 In this repository, you'll find:
-#### Jupyter Notebooks 📓
+
+### Jupyter Notebooks 📓
 Dive into detailed, hands-on Jupyter notebooks that cover various aspects of Pandas:
-- Intro to Pandas.ipynb: Get started with Pandas basics, including DataFrame and Series creation.
-- Data Cleaning.ipynb: Learn techniques for handling missing values and cleaning data.
-- Data Aggregation.ipynb: Explore grouping, aggregation, and pivot tables.
-- Time Series Analysis.ipynb: Analyze time series data with Pandas' specialized tools.
-#### Notes and Documentation 📝
+
+### Notes and Documentation 📝
 Comprehensive notes and explanations to complement the notebooks:
-- Pandas Basics.md: An overview of Pandas' core concepts and functionalities.
-- Advanced Pandas.md: In-depth notes on advanced topics such as merging, joining, and performance optimization.
 
 ## Getting Started 🚀
 To get started with these resources, follow these steps:
@@ -35,6 +31,6 @@ To get started with these resources, follow these steps:
 Feel free to contribute to this repository by submitting issues or pull requests. Whether it's fixing a bug, adding a new notebook, or improving documentation, your contributions are welcome!
 
 ## Connect with Me 🌐
-#### GitHub: https://medium.com/maharshi112
-#### LinkedIn: https://www.linkedin.com/in/maharshi-trivedi-857800108/
+#### GitHub: https://github.com/MaharshiDSML
+#### LinkedIn: https://www.linkedin.com/in/maharshi-trivedi-857800108
 Join me in exploring the capabilities of Pandas and making data analysis more efficient and enjoyable! 🚀
