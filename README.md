@@ -31,6 +31,6 @@ To get started with these resources, follow these steps:
 Feel free to contribute to this repository by submitting issues or pull requests. Whether it's fixing a bug, adding a new notebook, or improving documentation, your contributions are welcome!
 
 ## Connect with Me 🌐
-#### GitHub: https://github.com/MaharshiDSML
+#### Email: maharshi.fairtech@gmail.com
 #### LinkedIn: https://www.linkedin.com/in/maharshi-trivedi-857800108
 Join me in exploring the capabilities of Pandas and making data analysis more efficient and enjoyable! 🚀
